@@ -83,6 +83,8 @@ Software used on the `CSR8675` is configured using the ADK in version 4.1.35.
 
 #### Power paths
 
+![Power Paths](docs/power_paths.png)
+
 #### GPIO to function mapping
 
 |GPIO|Function|Description|
