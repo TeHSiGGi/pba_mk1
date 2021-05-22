@@ -2,11 +2,21 @@
 
 ## Introduction
 
-The **P**ortable **B**luetooth **a**mp MK1 is the first iteration of a portable bluetooth amplifier.
+The **P**ortable **B**luetooth **A**mp MK1 is the first iteration of a portable bluetooth amplifier.
 
 The goal was to design a universal base platform for designing bluetooth speaker in a range of small to large power.
 
 The amplifier is meant to be powered by LiPo batteries.
+
+## Repository structure
+
+```text
+/pba:mk1
+  /docs             # Documentation repository
+  /eagle            # Contains eagle files
+  /gerber           # Contains gerber board files
+  /pdf              # Contains PDF versions of the schematics 
+```
 
 ## Technical specification
 
